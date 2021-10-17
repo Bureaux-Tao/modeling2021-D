@@ -1,0 +1,8 @@
+{'n_estimators': 50}
+{'random_state': 161}
+{'max_depth': 2}
+{'max_leaf_nodes': 29}
+{'criterion': 'entropy'}
+{'min_samples_split': 7}
+{'min_samples_leaf': 7}
+{'max_features': 13}

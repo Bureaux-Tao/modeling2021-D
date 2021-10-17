@@ -1,0 +1,107 @@
+[
+  {
+    "column": "ATSc2",
+    "max": -0.143499781,
+    "min": -0.33943463
+  },
+  {
+    "column": "ETA_Eta_R",
+    "max": 82.7199,
+    "min": 53.96117
+  },
+  {
+    "column": "ETA_Eta_R_L",
+    "max": 19.36812,
+    "min": 14.20554
+  },
+  {
+    "column": "ECCEN",
+    "max": 1444,
+    "min": 628
+  },
+  {
+    "column": "apol",
+    "max": 86.865755,
+    "min": 60.704481
+  },
+  {
+    "column": "ETA_Eta_F_L",
+    "max": 11.2356,
+    "min": 6.24568
+  },
+  {
+    "column": "MLFER_L",
+    "max": 22.873,
+    "min": 13.298
+  },
+  {
+    "column": "ATSm3",
+    "max": 79.62406107,
+    "min": 46.15900569
+  },
+  {
+    "column": "SP-0",
+    "max": 27.80238966,
+    "min": 20.76093778
+  },
+  {
+    "column": "Kier2",
+    "max": 13.5734072,
+    "min": 10.092
+  },
+  {
+    "column": "SHother",
+    "max": 8.213817739,
+    "min": 3.197956639
+  },
+  {
+    "column": "maxssssC",
+    "max": 0.271650931,
+    "min": 0.0
+  },
+  {
+    "column": "SP-1",
+    "max": 19.36821374,
+    "min": 14.20561636
+  },
+  {
+    "column": "ETA_Shape_X",
+    "max": 0.03018,
+    "min": 0.0
+  },
+  {
+    "column": "bpol",
+    "max": 46.640866,
+    "min": 25.535519
+  },
+  {
+    "column": "MLFER_BH",
+    "max": 2.622,
+    "min": 1.392
+  },
+  {
+    "column": "C2SP2",
+    "max": 23,
+    "min": 9
+  },
+  {
+    "column": "SP-2",
+    "max": 17.93882806,
+    "min": 12.71670074
+  },
+  {
+    "column": "SPC-6",
+    "max": 15.53470202,
+    "min": 7.717187858
+  },
+  {
+    "column": "VC-4",
+    "max": 0.158113883,
+    "min": 0.0
+  },
+  {
+    "column": "pIC50",
+    "max": 10.337,
+    "min": 9.013
+  }
+]

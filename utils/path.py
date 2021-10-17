@@ -1,0 +1,7 @@
+molecular_descriptor_train_path = '/Users/Bureaux/Documents/workspace/PyCharmProjects/BreastCancerMedicine/data/train/Molecular_Descriptor.csv'
+molecular_descriptor_test_path = '/Users/Bureaux/Documents/workspace/PyCharmProjects/BreastCancerMedicine/data/test/Molecular_Descriptor.csv'
+era_activity_train_path = '/Users/Bureaux/Documents/workspace/PyCharmProjects/BreastCancerMedicine/data/train/ERα_activity.csv'
+era_activity_test_path = '/Users/Bureaux/Documents/workspace/PyCharmProjects/BreastCancerMedicine/data/test/ERα_activity.csv'
+admet_train_path = '/Users/Bureaux/Documents/workspace/PyCharmProjects/BreastCancerMedicine/data/train/ADMET.csv'
+admet_test_path = '/Users/Bureaux/Documents/workspace/PyCharmProjects/BreastCancerMedicine/data/test/ADMET.csv'
+all_data_path = '/Users/Bureaux/Documents/workspace/PyCharmProjects/BreastCancerMedicine/data/train/data_all_train.csv'

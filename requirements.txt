@@ -1,0 +1,9 @@
+eli5==0.11.0
+ipython==7.22.0
+Keras==2.2.4
+matplotlib==3.4.0
+numpy==1.20.2
+pandas==1.2.3
+scikit-learn==0.24.1
+tensorflow==1.14.0
+xgboost==1.4.2

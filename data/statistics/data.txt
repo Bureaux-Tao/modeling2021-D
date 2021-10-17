@@ -1,0 +1,26 @@
+随机森林：
+训练集：
+Mean squared error: 0.54
+Variance score: 0.73
+测试集：
+Mean squared error: 1.48
+Variance score: 0.26
+
+Mean squared error: 0.55
+Variance score: 0.73
+Mean squared error: 1.51
+Variance score: 0.24
+
+
+XGBoost
+训练集：
+Mean squared error: 0.32
+Variance score: 0.76
+验证集：
+Mean squared error: 1.55
+Variance score: 0.22
+
+Mean squared error: 0.27
+Variance score: 0.81
+Mean squared error: 1.39
+Variance score: 0.30

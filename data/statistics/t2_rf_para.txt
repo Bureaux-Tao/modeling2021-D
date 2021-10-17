@@ -1,0 +1,6 @@
+{'n_estimators': 109}
+{'random_state': 92}
+{'max_depth': 21}
+{'max_features': 10}
+{'min_samples_leaf': 10}
+{'min_samples_split': 21}

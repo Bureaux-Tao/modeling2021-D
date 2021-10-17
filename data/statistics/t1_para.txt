@@ -1,0 +1,17 @@
+{'max_depth': 24}
+-0.1285238862411721
+{'max_features': 30}
+-0.14382072063718984
+{'min_samples_leaf': 1}
+-0.129982216396258
+{'min_samples_split': 2}
+-0.129982216396258
+
+
+{'random_state': 92}
+{'n_estimators': 111}
+{'max_depth': 26}
+{'max_leaf_nodes': 39}
+{'min_samples_split': 2}
+{'min_samples_leaf': 3}
+{'max_features': 31}
